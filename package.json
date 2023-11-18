@@ -1,5 +1,5 @@
 {
-  "name": "week11",
+  "name": "week11-code",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "boostrap": "^2.0.0",
-    "bootstrap": "^5.3.2",
-    "jquery": "^3.7.1",
-    "popper": "^1.0.1"
+    "bootstrap": "^5.3.2"
   }
 }
